@@ -17,7 +17,7 @@ export default function Header() {
               <span className="text-white font-extrabold text-xl">E</span>
             </div>
             <span className="text-2xl font-extrabold text-gray-900">
-              Edu<span className="gradient-text">Novas</span>
+              Edu<span className="gradient-text">cation</span>
             </span>
           </Link>
 
